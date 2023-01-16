@@ -3,7 +3,7 @@
 ## Установка и запуск
 1) Клонировать репозиторий 
 ```sh
-https://github.com/AlexanderZah/auth_service.git
+git clone https://github.com/AlexanderZah/auth_service.git
 ```
 2) Создать виртуальное окружение
 ```sh
